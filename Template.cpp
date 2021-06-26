@@ -2,7 +2,9 @@
 #include <ext/pb_ds/assoc_container.hpp>
 using namespace __gnu_pbds;
 using namespace std;
- 
+
+
+#define endl            "\n"
 #define ff              first
 #define ss              second
 #define int             long long
